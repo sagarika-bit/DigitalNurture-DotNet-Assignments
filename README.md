@@ -14,10 +14,16 @@ This repository contains weekly assignments completed as part of the Cognizant D
 
 ## Week 1
 
+## Week 1
+
 ### Design Patterns and Principles
 
 - Exercise 1: Singleton Pattern ✅
 - Exercise 2: Factory Method Pattern ✅
+
+### Data Structures and Algorithms
+
+- Exercise 2: E-commerce Platform Search Function ✅
 
 ## Technologies Used
 
